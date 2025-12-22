@@ -7,6 +7,9 @@ case inside
 case outside
 <img width="281" height="325" alt="image" src="https://github.com/user-attachments/assets/99eed27f-c836-446b-9cf6-8f55576d9bfc" />
 
+case backplate
+<img width="317" height="361" alt="image" src="https://github.com/user-attachments/assets/4c1fe082-451e-415e-84af-eff7ac4ad53a" />
+
 
 pcb footprint
 <img width="572" height="749" alt="Zrzut ekranu 2025-12-21 150355" src="https://github.com/user-attachments/assets/27db29b4-0767-41e4-84af-4e6d6cc99801" />
